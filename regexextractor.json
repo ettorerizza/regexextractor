@@ -1,6 +1,7 @@
 {
   "name": "Regex Extractor",
   "id_name": "regexextractor",
+  "description": "Extract column based on regular expression",
   "category" : "Campaign Finance",
   "parameters": [
     {
