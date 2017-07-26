@@ -1,0 +1,22 @@
+{
+  "name": "Regex Extractor",
+  "id_name": "regexextractor",
+  "category" : "Campaign Finance",
+  "parameters": [
+    {
+      "name": "Column",
+      "id_name" : "column",
+      "type": "string"
+    },
+    {
+      "name": "Expression",
+      "id_name" : "expression",
+      "type": "string"
+    },
+    {
+      "name": "New Column",
+      "id_name" : "newcolumn",
+      "type": "string"
+    }
+  ]
+}
