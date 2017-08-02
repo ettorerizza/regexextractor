@@ -1,7 +1,7 @@
 {
-  "name": "Regex Extractor",
+  "name": "Regular Expression Extractor",
   "id_name": "regexextractor",
-  "description": "Extract column based on regular expression",
+  "description": "Extract values in a specific column using regular expression, and store them in a new column.",
   "category" : "Campaign Finance",
   "parameters": [
     {
