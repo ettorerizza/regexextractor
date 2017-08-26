@@ -3,7 +3,7 @@
   "id_name": "regexextractor",
   "description": "Extract values in a specific column using regular expression, and store them in a new column.",
   "category" : "Transform",
-  "icon": "api",
+  "icon": "transform",
   "parameters": [
     {
       "name": "Column",
