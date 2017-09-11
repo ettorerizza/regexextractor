@@ -6,7 +6,7 @@
   "icon": "transform",
   "parameters": [
     {
-      "name": "Column",
+      "name": "Target",
       "id_name" : "column",
       "type": "column"
     },
@@ -16,7 +16,7 @@
       "type": "string"
     },
     {
-      "name": "New Column",
+      "name": "Output",
       "id_name" : "newcolumn",
       "type": "string"
     }
