@@ -11,7 +11,7 @@ class Importable:
 
     @staticmethod
     def render(wf_module, table):
-        col = wf_module.get_param_string('column')
+        col = wf_module.get_param_column('column')
         regex = wf_module.get_param_string('expression')
         newcol = wf_module.get_param_string('newcolumn')
 
