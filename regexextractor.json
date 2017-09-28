@@ -2,7 +2,7 @@
   "name": "Regular Expression",
   "id_name": "regexextractor",
   "description": "Extract values in a specific column using regular expression, and store them in a new column.",
-  "category" : "Transform",
+  "category" : "Analyse",
   "icon": "edit",
   "parameters": [
     {
