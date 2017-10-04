@@ -16,7 +16,7 @@
       "type": "string"
     },
     {
-      "name": "Output",
+      "name": "New column name",
       "id_name" : "newcolumn",
       "type": "string"
     }
