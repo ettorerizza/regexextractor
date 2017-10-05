@@ -19,7 +19,7 @@
       "name": "Output column name",
       "id_name" : "newcolumn",
       "type": "string",
-      "Default":"expression output"
+      "default":"expression output"
     }
   ]
 }
