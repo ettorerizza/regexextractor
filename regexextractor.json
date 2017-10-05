@@ -1,5 +1,5 @@
 {
-  "name": "Regular Expression",
+  "name": "Regular expression",
   "id_name": "regexextractor",
   "description": "Extract values in a specific column using regular expression, and store them in a new column.",
   "category" : "Analyse",
@@ -16,9 +16,10 @@
       "type": "string"
     },
     {
-      "name": "New column name",
+      "name": "Output column name",
       "id_name" : "newcolumn",
-      "type": "string"
+      "type": "string",
+      "Default":"expression output"
     }
   ]
 }
