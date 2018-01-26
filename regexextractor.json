@@ -13,7 +13,7 @@
     {
       "name": "Expression",
       "id_name" : "expression",
-      "type": "string"
+      "type": "string",
       "placeholder": "Type regular expression formula"
     },
     {
