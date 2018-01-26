@@ -17,7 +17,7 @@
       "placeholder": "Type regular expression formula"
     },
     {
-      "name": "Output column name",
+      "name": "Output column",
       "id_name" : "newcolumn",
       "type": "string",
       "default":"expression output"
