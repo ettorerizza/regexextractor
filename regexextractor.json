@@ -7,12 +7,12 @@
   "icon": "edit",
   "parameters": [
     {
-      "name": "Target",
+      "name": "Target column",
       "id_name" : "column",
       "type": "column"
     },
     {
-      "name": "Expression",
+      "name": "",
       "id_name" : "expression",
       "type": "string",
       "placeholder": "Type regular expression formula"
