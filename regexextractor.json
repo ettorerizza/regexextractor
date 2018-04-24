@@ -4,7 +4,7 @@
   "description": "Extract values in a specific column using regular expression, and store them in a new column.",
   "category" : "Clean",
   "help_url":"modules/clean/regex-extractor",
-  "icon": "edit",
+  "icon": "formula",
   "parameters": [
     {
       "name": "Target column",
