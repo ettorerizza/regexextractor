@@ -1,6 +1,6 @@
 {
-  "name": "Regex extractor",
-  "id_name": "regexextractor",
+  "name": "Regex extractor2",
+  "id_name": "regexextractor2",
   "description": "Extract values in a specific column using regular expression, and store them in a new column.",
   "category" : "Clean",
   "help_url":"modules/clean/regex-extractor",
