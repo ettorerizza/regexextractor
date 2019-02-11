@@ -17,11 +17,7 @@ def render(table, params):
 
     if not compiled.groups:
         return 'Your regex needs a capture group. Add (parentheses) around it.'
-    elif compiled.groups > 1:
-        return (
-            'Workbench only supports one (capture group). '
-            'Remove some parentheses.'
-        )
+
 
     series = table[col]
 
@@ -34,5 +30,5 @@ def render(table, params):
         strs[series.isna()] = None
         series = strs
 
-    table[newcol] = series.str.extract(compiled, expand=False)
+    table[newcol] = series.str.extract(compiled, expand=False)[0]
     return table
